@@ -1,5 +1,5 @@
 #CustomBotConsole
-* Authors: Kenshin Himura *(Sudarsan Balaji)*, Balakumar S, Yaswanth Kodavali
+* Authors: Kenshin The Battōsai *(Sudarsan Balaji)*, Balakumar S, Yaswanth Kodavali
 * License: *GNU GPL v3* (see COPYING.texi)
 * ReadMe Version: 1.4
 
